@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwBL0UA8d+c=",
+  "success": true,
+  "projectFilePath": "C:\\Abdullah\\keylogger-main\\NetKeyLogger\\NetKeyLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
